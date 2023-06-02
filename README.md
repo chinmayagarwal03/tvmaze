@@ -1,6 +1,8 @@
 ## Deployment link
 https://tvmaze-rna6.onrender.com/
 
+## Portfolio Website
+https://chinmas-portfolio-website.onrender.com/
 ## Sample Images
 
 <img width="1440" alt="Screenshot 2023-06-02 at 10 05 49 AM" src="https://github.com/chinmayagarwal03/tvmaze/assets/87461631/20a8c00d-4b92-4736-8501-1eae0bf9509a">
