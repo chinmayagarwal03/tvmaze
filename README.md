@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+## Deployment link
+https://tvmaze-rna6.onrender.com/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Sample Images
+
+<img width="1440" alt="Screenshot 2023-06-02 at 10 05 49 AM" src="https://github.com/chinmayagarwal03/tvmaze/assets/87461631/20a8c00d-4b92-4736-8501-1eae0bf9509a">
+<img width="1440" alt="Screenshot 2023-06-02 at 10 05 59 AM" src="https://github.com/chinmayagarwal03/tvmaze/assets/87461631/5b1e6956-8f26-478e-bcbd-3fcda7f6a930">
+<img width="1440" alt="Screenshot 2023-06-02 at 10 06 21 AM" src="https://github.com/chinmayagarwal03/tvmaze/assets/87461631/e0a1cf42-76ca-4b33-a334-019e167d59a3">
 
 ## Available Scripts
 
@@ -39,32 +44,5 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
